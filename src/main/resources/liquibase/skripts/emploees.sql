@@ -1,4 +1,4 @@
-CREATE TABLE students (
+CREATE TABLE emploees (
     Id SERIAL PRIMARY KEY ,
     name TEXT NOT NULL UNIQUE,
     department TEXT NOT NULL,
